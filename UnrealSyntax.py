@@ -78,7 +78,7 @@ class MySettings(PropertyGroup):
 
 
 # ------------------------------------------------------------------------
-#    OPERATORS - IMPOR PANEL
+#    OPERATORS - IMPOR PANEL 
 # ------------------------------------------------------------------------
 
 class ImportMeshPanel(bpy.types.Panel):
